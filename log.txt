@@ -1,0 +1,3 @@
+b07367c Actualizar Control de Cambios a V2
+86fedbf Propuesta de mejoras anhadidas
+c0dce31 Base del proyecto. Versión V1 del documento de Control de Cambios.
