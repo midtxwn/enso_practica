@@ -1,0 +1,8 @@
+#1
+mkdir -p Repositorio/{Proyectos/Prj1,Procesos/"Control de Cambios"}  #-p crea subdirectorios anidados
+cd Repositorio 
+git init
+
+#2
+touch historia.txt log.txt
+
