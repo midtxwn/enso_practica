@@ -1,3 +1,23 @@
 b07367c Actualizar Control de Cambios a V2
 86fedbf Propuesta de mejoras anhadidas
 c0dce31 Base del proyecto. Versión V1 del documento de Control de Cambios.
+
+acef235 (HEAD -> Mejoras) Actualizar Control de Cambios a V2
+779ec9c Propuesta de mejoras anhadidas
+42b4a6d (master) Primer cambio en rama main (modificacion de Documento V1)
+c0dce31 (tag: Rev1) Base del proyecto. Versión V1 del documento de Control de Cambios.
+
+
+acef235 (HEAD -> master) Actualizar Control de Cambios a V2
+779ec9c Propuesta de mejoras anhadidas
+42b4a6d Primer cambio en rama main (modificacion de Documento V1)
+c0dce31 (tag: Rev1) Base del proyecto. Versión V1 del documento de Control de Cambios.
+
+b4aa8fb (HEAD -> master, tag: Rev3, origin/master) V3 con plantillas correctas
+576c5e2 (tag: Rev2) Eliminar PDF de propuestas
+acef235 Actualizar Control de Cambios a V2
+779ec9c Propuesta de mejoras anhadidas
+42b4a6d Primer cambio en rama main (modificacion de Documento V1)
+c0dce31 (tag: Rev1) Base del proyecto. Versión V1 del documento de Control de Cambios.
+
+
